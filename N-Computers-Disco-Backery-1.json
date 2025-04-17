@@ -4,6 +4,25 @@
     "price": 510,
     "description": "Crispy chicken burger with fries",
     "image": "..."
+  },
+  {
+    "name": "Burger With Cold Drink",
+    "price": 310,
+    "description": "Crispy chicken burger with fries",
+    "image": "..."
+  },
+    {
+    "name": "Pizza",
+    "price": 1310,
+    "description": "Crispy Pizza with fries",
+    "image": "..."
+  },
+    {
+    "name": "Chicjen Burger With Cold Drink",
+    "price": 810,
+    "description": "Crispy chicken burger with fries",
+    "image": "..."
   }
+  
 ]
 
